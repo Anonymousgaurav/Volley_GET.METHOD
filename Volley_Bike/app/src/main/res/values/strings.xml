@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Volley_Bike</string>
+
+
+
+
+    <string name="dialog_message">Data Connection Error</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+
+
+</resources>
